@@ -1,9 +1,16 @@
-## Useful AWS Resources
+# Useful AWS Resources
+
+### Latest News / Updates 
+
+[AWS News Blog](https://aws.amazon.com/blogs/aws/)
+[AWS POD Cast](https://aws.amazon.com/podcasts/aws-podcast/?podcast-list.sort-by=item.additionalFields.EpisodeNum&podcast-list.sort-order=desc)
+
+
 
 ### AWS Management & Governance Hot Topics Video Series
 
 
-[**Link to the Playlist on YouTube**](https://www.youtube.com/watch?v=vAnIhIwE5hY&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP&index=1)
+[**Link to the Playlist on YouTube**](https://www.youtube.com/playlist?list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP)
  
 
 Some recent examples 
