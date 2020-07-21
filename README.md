@@ -35,3 +35,9 @@ Some recent examples
   
 * [Securely Access Windows Instances Using RDP and AWS Systems Manager Session Manager](https://www.youtube.com/watch?v=nt6NTWQ-h6o&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP&index=15)
  
+
+
+
+## AWS Support
+
+[Knowledge Center PlayList](https://www.youtube.com/playlist?list=PLhr1KZpdzukfdjsOHZ-BazZt1iK1J8UUw)
