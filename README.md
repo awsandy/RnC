@@ -26,8 +26,6 @@
 [Configure Session Permissions Using Run As in AWS Systems Manager Session Manager](https://www.youtube.com/watch?v=S2yiPu5dMrc&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP&index=12)
 
 [Evaluate Third-Party Resources with AWS Config](https://www.youtube.com/watch?v=XwPVKsvrFXc&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP&index=13)
-
 [Simplify your BYOL Experience with Dedicated Host Management Capabilities in AWS License Manager](https://www.youtube.com/watch?v=kukiDf9Ilcc&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP&index=14)
-
 [[Securely Access Windows Instances Using RDP and AWS Systems Manager Session Manager](https://www.youtube.com/watch?v=nt6NTWQ-h6o&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP&index=15)
  
