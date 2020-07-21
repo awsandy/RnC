@@ -3,7 +3,7 @@
 ### 
 
  
-!Simplify Custom Rule Creation Using the AWS Config Rule Development Kit[https://www.youtube.com/watch?v=7Iao8SR9Czg&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP]
+!Simplify Custom Rule Creation Using the AWS Config Rule Development Kit[https://www.youtube.com/watch?v=7Iao8SR9Czg&list=PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP "Simplify Custom Rule Creation Using the AWS Config Rule Development Kit"]
 Manage Configuration Compliance at Scale Using AWS Config Conformance Packs
 Automate Image Creation in AWS with EC2 Image Builder
 Query Resource Configuration Properties Using AWS Config Advanced Query
